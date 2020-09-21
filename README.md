@@ -8,12 +8,16 @@ A curated list of resources about all things [Active Assist](https://cloud.googl
 
 ## Documentation
 
-* 📙 [Cloud Recommender](https://cloud.google.com/recommender/docs)
+* 📙 [Cloud Recommender](https://cloud.google.com/recommender/docs): general documentation for Cloud Recommender service
+* 📙 [IAM Recommender](https://cloud.google.com/iam/docs/recommender-overview)
+* 📙 [Firewall Insights](https://cloud.google.com/network-intelligence-center/docs/firewall-insights/how-to/using-firewall-insights)
+* 📙 [CUD Recommender](https://cloud.google.com/billing/docs/how-to/cud-analysis-resource-based#understanding_commitment_recommendations)
+* 📙 [VM Sizing](https://cloud.google.com/compute/docs/instances/apply-sizing-recommendations-for-instances)
 
 ## Demos, reference solutions, samples and automation
 
 * 📦 [Using Recommendations with Terraform and other IaC tools](https://cloud.google.com/recommender/docs/tutorial-iac)
-* ✏️ [Interactive demo of recommendations in Cloud Console](https://showcase.withgoogle.com/active-assist)
+* ✏️ [Interactive demo of recommendations in Cloud Console](https://showcase.withgoogle.com/active-assist) (August 2020)
 
 ## Videos, articles, podcasts, slides
 
