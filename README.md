@@ -10,7 +10,7 @@ A curated list of resources about all things [Active Assist](https://cloud.googl
 
 Recommendations and insights:
 * 📙 [Cloud Recommender](https://cloud.google.com/recommender/docs): general documentation for Cloud Recommender service
-* 📙 [IAM Recommender](https://cloud.google.com/iam/docs/recommender-overview): establish least privilege / reduce permission overgranting
+* 📙 [IAM Recommender](https://cloud.google.com/iam/docs/recommender-overview): establish least privilege by removing excessive permissions
 * 📙 [Firewall Insights](https://cloud.google.com/network-intelligence-center/docs/firewall-insights/how-to/using-firewall-insights): secure firewalls by removing unused rules
 * 📙 [CUD Recommender](https://cloud.google.com/billing/docs/how-to/cud-analysis-resource-based#understanding_commitment_recommendations): reduce cost with long-term commitments
 * 📙 [VM Sizing](https://cloud.google.com/compute/docs/instances/apply-sizing-recommendations-for-instances): optimize VM utilization
