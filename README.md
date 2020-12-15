@@ -30,10 +30,12 @@ Google Cloud Next breakout presentations:
 
 Blogs, articles:
 * 📰 [Boo! Fight off your scariest cloud monsters with Active Assist](https://cloud.google.com/blog/products/management-tools/optimize-google-cloud-resources-with-active-assist) 🙂 (October 2020)
+* 📰 [Under the hood: The security analytics that drive IAM recommendations on Google Cloud](https://cloud.google.com/blog/products/identity-security/the-security-analytics-that-deliver-iam-recommendations) (August 2020)
 * 📰 [Achieve least privilege with less effort using IAM Recommender](https://cloud.google.com/blog/products/identity-security/achieve-least-privilege-with-less-effort-using-iam-recommender) (August 2020)
 * 📰 [Introducing Active Assist: Reduce complexity, maximize your cloud ROI](https://cloud.google.com/blog/products/management-tools/active-assist-comes-to-google-cloud) (July 2020)
 * 📰 [Google Cloud firewalls adds new policy and insights](https://cloud.google.com/blog/products/identity-security/new-google-cloud-firewall-features) (June 2020)
 * 📰 [Using Recommenders to keep your cloud running optimally](https://cloud.google.com/blog/products/management-tools/using-recommenders-keep-your-cloud-running-optimally) (June 2020)
+* 📰 [Exploring the machine learning models behind Cloud IAM Recommender](https://cloud.google.com/blog/products/identity-security/exploring-the-machine-learning-models-behind-cloud-iam-recommender) (November 2019)
 
 ## Get in touch
 
