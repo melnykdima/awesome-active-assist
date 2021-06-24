@@ -17,7 +17,9 @@ Recommendations and insights:
 
 ## Demos, reference solutions, samples and automation
 
-* 📦 [Using Recommendations with Terraform and other IaC tools](https://cloud.google.com/recommender/docs/tutorial-iac)
+* 📦 [Patterns for using Active Assist at scale](https://cloud.google.com/architecture/patterns-for-using-active-assist-at-scale) (June 2021)
+* 📦 [Using serverless pipelines with Active Assist](https://cloud.google.com/architecture/using-serverless-pipelines-with-active-assist) (June 2021)
+* 📦 [Using Recommendations with Terraform and other IaC tools](https://cloud.google.com/recommender/docs/tutorial-iac) (December 2020)
 * ✏️ [Interactive demo of recommendations in Cloud Console](https://showcase.withgoogle.com/active-assist) (August 2020)
 
 ## Videos, articles, podcasts, slides
@@ -29,6 +31,8 @@ Google Cloud Next breakout presentations:
 * 🎬 [Policy Intelligence: Applying Machine Learning and Analytics to Security in GCP](https://www.youtube.com/watch?v=F45e9Nle0oU)(April 2019)
 
 Blogs, articles:
+* 📰 [Take control of your firewall rules with Firewall Insights](https://cloud.google.com/blog/products/identity-security/eliminate-firewall-misconfigurations-with-firewall-insights) (May 2021)
+* 📰 [Enforcing least privilege by bulk-applying IAM recommendations](https://cloud.google.com/blog/products/identity-security/using-iam-recommender-to-bulk-apply-least-privilege-principles)
 * 📰 [Boo! Fight off your scariest cloud monsters with Active Assist](https://cloud.google.com/blog/products/management-tools/optimize-google-cloud-resources-with-active-assist) 🙂 (October 2020)
 * 📰 [Under the hood: The security analytics that drive IAM recommendations on Google Cloud](https://cloud.google.com/blog/products/identity-security/the-security-analytics-that-deliver-iam-recommendations) (August 2020)
 * 📰 [Achieve least privilege with less effort using IAM Recommender](https://cloud.google.com/blog/products/identity-security/achieve-least-privilege-with-less-effort-using-iam-recommender) (August 2020)
