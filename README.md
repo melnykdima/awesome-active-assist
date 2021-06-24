@@ -32,7 +32,7 @@ Google Cloud Next breakout presentations:
 
 Blogs, articles:
 * 📰 [Take control of your firewall rules with Firewall Insights](https://cloud.google.com/blog/products/identity-security/eliminate-firewall-misconfigurations-with-firewall-insights) (May 2021)
-* 📰 [Enforcing least privilege by bulk-applying IAM recommendations](https://cloud.google.com/blog/products/identity-security/using-iam-recommender-to-bulk-apply-least-privilege-principles)
+* 📰 [Enforcing least privilege by bulk-applying IAM recommendations](https://cloud.google.com/blog/products/identity-security/using-iam-recommender-to-bulk-apply-least-privilege-principles) (January 2021)
 * 📰 [Boo! Fight off your scariest cloud monsters with Active Assist](https://cloud.google.com/blog/products/management-tools/optimize-google-cloud-resources-with-active-assist) 🙂 (October 2020)
 * 📰 [Under the hood: The security analytics that drive IAM recommendations on Google Cloud](https://cloud.google.com/blog/products/identity-security/the-security-analytics-that-deliver-iam-recommendations) (August 2020)
 * 📰 [Achieve least privilege with less effort using IAM Recommender](https://cloud.google.com/blog/products/identity-security/achieve-least-privilege-with-less-effort-using-iam-recommender) (August 2020)
