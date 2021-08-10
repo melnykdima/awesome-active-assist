@@ -31,6 +31,11 @@ Google Cloud Next breakout presentations:
 * 🎬 [Policy Intelligence: Applying Machine Learning and Analytics to Security in GCP](https://www.youtube.com/watch?v=F45e9Nle0oU)(April 2019)
 
 Blogs, articles:
+* 📰 [Introducing Unattended Project Recommender: discover, reclaim, or deprecate abandoned projects under your organization](https://cloud.google.com/blog/products/identity-security/google-cloud-launches-unattended-project-recommender) (August 2021)
+* 📰 [Google named a Leader in 2021 Gartner Magic Quadrant for Cloud Infrastructure and Platform Services again](https://cloud.google.com/blog/products/gcp/google-cloud-a-leader-in-2021-gartner-iaas-mq) (August 2021)
+* 📰 [Blue-sky thinking: how Sky is reimagining their FinOps journey](https://cloud.google.com/blog/topics/developers-practitioners/how-sky-saved-millions-with-google-cloud) (July 2021)
+* 📰 [Optimizing your Google Cloud spend with BigQuery and Looker](https://cloud.google.com/blog/topics/developers-practitioners/optimizing-your-google-cloud-spend-bigquery-and-looker) (July 2021)
+* 📰 [Let Google Cloud’s predictive services autoscale your infrastructure](https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling) (July 2021)
 * 📰 [Take control of your firewall rules with Firewall Insights](https://cloud.google.com/blog/products/identity-security/eliminate-firewall-misconfigurations-with-firewall-insights) (May 2021)
 * 📰 [Enforcing least privilege by bulk-applying IAM recommendations](https://cloud.google.com/blog/products/identity-security/using-iam-recommender-to-bulk-apply-least-privilege-principles) (January 2021)
 * 📰 [Boo! Fight off your scariest cloud monsters with Active Assist](https://cloud.google.com/blog/products/management-tools/optimize-google-cloud-resources-with-active-assist) 🙂 (October 2020)
