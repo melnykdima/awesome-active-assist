@@ -37,6 +37,7 @@ Blogs, articles:
 * 📰 [Optimizing your Google Cloud spend with BigQuery and Looker](https://cloud.google.com/blog/topics/developers-practitioners/optimizing-your-google-cloud-spend-bigquery-and-looker) (July 2021)
 * 📰 [Let Google Cloud’s predictive services autoscale your infrastructure](https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling) (July 2021)
 * 📰 [Take control of your firewall rules with Firewall Insights](https://cloud.google.com/blog/products/identity-security/eliminate-firewall-misconfigurations-with-firewall-insights) (May 2021)
+* 📰 [4 new features to secure your Cloud Run services](https://cloud.google.com/blog/products/serverless/improving-the-security-of-your-cloud-run-environment) (May 2021)
 * 📰 [Enforcing least privilege by bulk-applying IAM recommendations](https://cloud.google.com/blog/products/identity-security/using-iam-recommender-to-bulk-apply-least-privilege-principles) (January 2021)
 * 📰 [Boo! Fight off your scariest cloud monsters with Active Assist](https://cloud.google.com/blog/products/management-tools/optimize-google-cloud-resources-with-active-assist) 🙂 (October 2020)
 * 📰 [Under the hood: The security analytics that drive IAM recommendations on Google Cloud](https://cloud.google.com/blog/products/identity-security/the-security-analytics-that-deliver-iam-recommendations) (August 2020)
