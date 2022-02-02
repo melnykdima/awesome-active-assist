@@ -42,6 +42,7 @@ Blogs, articles:
 * 📰 [Do more with less: Introducing Cloud SQL Cost optimization recommendations with Active Assist](https://cloud.google.com/blog/products/databases/reduce-cloud-sql-costs-with-optimizations-by-active-assist) (September 2021)
 * 📰 [Introducing Unattended Project Recommender: discover, reclaim, or deprecate abandoned projects](https://cloud.google.com/blog/products/identity-security/google-cloud-launches-unattended-project-recommender) (August 2021)
 * 📰 [Google named a Leader in 2021 Gartner Magic Quadrant for Cloud Infrastructure and Platform Services again](https://cloud.google.com/blog/products/gcp/google-cloud-a-leader-in-2021-gartner-iaas-mq) (August 2021)
+* 📰 [Let's migrate: why lifting and shifting is simply too easy to ignore](https://cloud.google.com/blog/products/cloud-migration/lets-migrate-why-lifting-and-shifting-simply-too-easy-ignore) (July 2021)
 * 📰 [Blue-sky thinking: how Sky is reimagining their FinOps journey](https://cloud.google.com/blog/topics/developers-practitioners/how-sky-saved-millions-with-google-cloud) (July 2021)
 * 📰 [Optimizing your Google Cloud spend with BigQuery and Looker](https://cloud.google.com/blog/topics/developers-practitioners/optimizing-your-google-cloud-spend-bigquery-and-looker) (July 2021)
 * 📰 [Let Google Cloud’s predictive services autoscale your infrastructure](https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling) (July 2021)
