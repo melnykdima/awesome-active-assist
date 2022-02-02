@@ -11,9 +11,11 @@ A curated list of resources about all things [Active Assist](https://cloud.googl
 Recommendations and insights:
 * 📙 [Cloud Recommender](https://cloud.google.com/recommender/docs): general documentation for Cloud Recommender service
 * 📙 [IAM Recommender](https://cloud.google.com/iam/docs/recommender-overview): establish least privilege by removing excessive permissions
+* 📙 [Unattended Project Recommender](https://cloud.google.com/recommender/docs/unattended-project-recommender): identify and remediate idle projects
 * 📙 [Firewall Insights](https://cloud.google.com/network-intelligence-center/docs/firewall-insights/how-to/using-firewall-insights): secure firewalls by removing unused rules
 * 📙 [CUD Recommender](https://cloud.google.com/billing/docs/how-to/cud-analysis-resource-based#understanding_commitment_recommendations): reduce cost with long-term commitments
 * 📙 [VM Sizing](https://cloud.google.com/compute/docs/instances/apply-sizing-recommendations-for-instances): optimize VM utilization
+* 📙 [SQL Idle](https://cloud.google.com/sql/docs/mysql/recommender-sql-idle): identify idle database instances
 
 ## Demos, reference solutions, samples and automation
 
@@ -25,13 +27,19 @@ Recommendations and insights:
 ## Videos, articles, podcasts, slides
 
 Google Cloud Next breakout presentations:
+* 🎬 [How Target has operationalized policy intelligence tools](https://youtu.be/uI_lYOtLkRQ) (October 2021)
 * 🎬 [Meet Active Assist: Cloud is complex. Managing it shouldn't be.](https://www.youtube.com/watch?v=A2tvDIfevos) (July 2020)
 * 🎬 [Uber presents: Minimizing permissions using IAM Recommender](https://www.youtube.com/watch?v=0MUaNoyGgNw) (July 2020)
 * 🎬 [Veolia presents: Using Policy Intelligence to achieve least privilege access](https://youtu.be/LYUVnvRovIM) (July 2020)
 * 🎬 [Policy Intelligence: Applying Machine Learning and Analytics to Security in GCP](https://www.youtube.com/watch?v=F45e9Nle0oU)(April 2019)
 
 Blogs, articles:
+* 📰 [5 key metrics to measure Cloud FinOps impact in your organization in 2022 and beyond](https://cloud.google.com/blog/topics/cloud-first/key-metrics-to-measure-impact-of-cloud-finops) (December 2021)
+* 📰 [Announcing new tools to measure—and reduce—your environmental impact](https://cloud.google.com/blog/topics/sustainability/new-tools-to-measure-and-reduce-your-environmental-impact) (October 2021)
+* 📰 [Cloud CISO Perspectives: October 2021](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-october-2021) (October 2021)
+* 📰 [What’s New and What’s Next with Google Cloud Databases](https://cloud.google.com/blog/products/databases/google-cloud-unveils-new-database-capabilities-at-next-2021) (October 2021)
 * 📰 [What to expect from Active Assist at Google Cloud Next’21](https://cloud.google.com/blog/products/management-tools/what-to-expect-from-active-assist-at-google-cloud-next21) (October 2021)
+* 📰 [Do more with less: Introducing Cloud SQL Cost optimization recommendations with Active Assist](https://cloud.google.com/blog/products/databases/reduce-cloud-sql-costs-with-optimizations-by-active-assist) (September 2021)
 * 📰 [Introducing Unattended Project Recommender: discover, reclaim, or deprecate abandoned projects](https://cloud.google.com/blog/products/identity-security/google-cloud-launches-unattended-project-recommender) (August 2021)
 * 📰 [Google named a Leader in 2021 Gartner Magic Quadrant for Cloud Infrastructure and Platform Services again](https://cloud.google.com/blog/products/gcp/google-cloud-a-leader-in-2021-gartner-iaas-mq) (August 2021)
 * 📰 [Blue-sky thinking: how Sky is reimagining their FinOps journey](https://cloud.google.com/blog/topics/developers-practitioners/how-sky-saved-millions-with-google-cloud) (July 2021)
