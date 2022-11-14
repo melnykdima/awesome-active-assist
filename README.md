@@ -34,6 +34,8 @@ Google Cloud Next breakout presentations:
 * 🎬 [Policy Intelligence: Applying Machine Learning and Analytics to Security in GCP](https://www.youtube.com/watch?v=F45e9Nle0oU)(April 2019)
 
 Blogs, articles:
+* 📰 [Proactive Database Wellness with Active Assist: Introducing additional Cloud SQL recommenders](https://cloud.google.com/blog/products/databases/proactive-database-wellness-with-active-assist) (October 2022)
+* 📰 [Pro tools for Pros: Industry leading observability capabilities for Dataflow](https://cloud.google.com/blog/products/data-analytics/dataflow-new-observability-capabilities) (September 2022)
 * 📰 [Make the most of your cloud deployment with Active Assist](https://cloud.google.com/blog/topics/developers-practitioners/make-most-your-cloud-deployment-active-assist) (August 2022)
 * 📰 [Quick Access: Intelligence behind the Google Cloud’s new homepage](https://cloud.google.com/blog/topics/developers-practitioners/quick-access-intelligence-behind-google-clouds-new-homepage) (July 2022)
 * 📰 [Introducing Active Assist recommendations for BigQuery capacity planning](https://cloud.google.com/blog/products/data-analytics/google-cloud-launches-bigquery-capacity-recommendations) (April 2022)
