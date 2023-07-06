@@ -34,6 +34,8 @@ Google Cloud Next breakout presentations:
 * 🎬 [Policy Intelligence: Applying Machine Learning and Analytics to Security in GCP](https://www.youtube.com/watch?v=F45e9Nle0oU)(April 2019)
 
 Blogs, articles:
+* 📰 [Introducing partitioning and clustering recommendations for optimizing BigQuery usage](https://cloud.google.com/blog/products/data-analytics/new-bigquery-partitioning-and-clustering-recommendations) (May 2023)
+* 📰 [Introducing Active Assist recommendations for service limits (quotas)](https://cloud.google.com/blog/products/management-tools/introducing-active-assist-recommendations-for-service-limits) (May 2023)
 * 📰 [4 new features of Active Assist to help automate idle resource management](https://cloud.google.com/blog/products/management-tools/new-features-unattended-project-recommender) (December 2022)
 * 📰 [Automated Cleanup of Unused Google Cloud Projects](https://cloud.google.com/blog/topics/developers-practitioners/automated-cleanup-unused-google-cloud-projects/) (November 2022)
 * 📰 [Proactive Database Wellness with Active Assist: Introducing additional Cloud SQL recommenders](https://cloud.google.com/blog/products/databases/proactive-database-wellness-with-active-assist) (October 2022)
